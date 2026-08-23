@@ -1,13 +1,6 @@
 <div align="center">
- <h1><a>Data Science Master Guide Line</a></h1>
-  <img width="250" height="250" src="Media/Logo.svg">
-</div>
- 
-------------------------------------------------------------------------------------------------------------------------------------------
-
-
-<div align="center">
-	<img width="500" height="350" src="Media/Logo.svg" alt="AWESOME">
+	<h1><a>Awesome All Kinds of Interesting List Topics</a></h1>
+	<img width="250" height="250" src="Media/Logo.svg">
 	<br>
 	<div>
 		<sub>Check out my MacOS App</sub>
