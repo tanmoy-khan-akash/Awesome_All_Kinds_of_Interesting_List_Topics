@@ -30,7 +30,7 @@
 		<br>
 		<a href="https://circleback.ai?utm_source=sindresorhus&utm_medium=sponsorship&utm_campaign=awesome-list&utm_id=awesome">
 			<div>
-				<img width="340" src="https://sindresorhus.com/assets/thanks/circleback-logo.png?x" alt="Circleback logo">
+				<img width="250" src="https://sindresorhus.com/assets/thanks/circleback-logo.png?x" alt="Circleback logo">
 			</div>
 			<b>Get the most out of every conversation.</b>
 			<div>
