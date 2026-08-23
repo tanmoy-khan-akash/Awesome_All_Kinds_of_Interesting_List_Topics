@@ -1,6 +1,6 @@
 <div align="center">
  <h1><a>Data Science Master Guide Line</a></h1>
-  <img width="250" height="250" src="Logo.svg">
+  <img width="250" height="250" src="Media/Logo.svg">
 </div>
  
 ------------------------------------------------------------------------------------------------------------------------------------------
