@@ -872,4 +872,4 @@
 - [Track Awesome List](https://www.trackawesomelist.com) - View the latest updates of Awesome lists.
 ------------------------------------------------------------------------------------------------------------------------------------------
 
-These resources are perfect for both beginners and advanced learners. 
+These resources are perfect for both beginners and advanced learners.  
